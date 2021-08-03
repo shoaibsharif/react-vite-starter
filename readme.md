@@ -1,14 +1,4 @@
-# Vite + React + Tailwind + Redux Toolkit
 
-![Vite + React + Tailwind + Redux Toolkit](/screenshot.png)
-
-## Installation
-
-```shell
-npx degit jamosaur/vite-react-tailwind-rtk my-awesome-project
-cd my-awesome-project
-npm install
-```
 
 ## Development
 ```shell
